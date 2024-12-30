@@ -1,10 +1,10 @@
 # Editor de Código Interactivo con CodeMirror
 
-![HTMLescapado](CapturaCode.JPG)
+![HTML](CapturaCode.JPG)
 
 
 ## Acceso Rápido a la Aplicación
-[HTMLescapado](https://xococode.github.io/EditorHTMLreal.github.io/)
+[HTML](https://xococode.github.io/EditorHTMLreal.github.io/)
 
 ## Descripción
 
